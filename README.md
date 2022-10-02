@@ -1,6 +1,6 @@
-# Sammy's Poli Sci Blog
+# Homepage for Sammy's Political Science 390 Blog!
 
-Hello all! My name is Sammy Mustafa
+Hey all! My name is Sammy Mustafa woo!
 
 # Different Posts
 
