@@ -1,1 +1,1 @@
-# Short Blog 2
+# Short Form Blog 2
