@@ -4,8 +4,6 @@ Hey all! My name is Sammy Mustafa and I love biking, thrifting, hammocking with 
 
 ![Here is me hammocking with my close friend!](pranav.jpg) 
 
-![Here is a box of dates I've devoured](dates.jpg) 
-
 
 # Different Posts
 
