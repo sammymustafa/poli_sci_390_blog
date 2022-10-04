@@ -1,6 +1,10 @@
-# Sammy's Political Science 390 Blog Homepage!
+# Homepage for Sammy's Political Science 390 Blog!
 
-Hey all! My name is Sammy Mustafa and I love biking, thrifting, cleaning, and reading! I am a senior majoring in Computational & Systems Biology and minoring in Data Science at Northwestern University. I am currently enrolled in Political Science 390, in which we visualize Political data! Thus, I hope to use this site and various blog posts to track my progress in being able to understand what constitutes a satisfactory graphic in terms of visualization as well as interpretablility. Come along this journey with me :)
+Hey all! My name is Sammy Mustafa and I love biking, thrifting, hammocking with my friends, snacking on dates and pistachios, cleaning, and reading! I am a senior majoring in Computational & Systems Biology and minoring in Data Science at Northwestern University. I am currently enrolled in Political Science 390, in which we visualize Political data! Thus, I hope to use this site and various blog posts to track my progress in being able to understand what constitutes a satisfactory graphic in terms of visualization as well as interpretablility. Come along this journey with me :)
+
+![Here is me hammocking with my close friend!](pranav.jpg) 
+
+![Here is a box of dates I've devoured](dates.jpg) 
 
 
 # Different Posts
