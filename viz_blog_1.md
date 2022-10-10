@@ -5,5 +5,6 @@
 
 
 ![Bad Visualization](https://www.visualcapitalist.com/wp-content/uploads/2017/08/minimum-wage-inflation.png)
+[Bad Visualization](https://www.visualcapitalist.com/visualizing-real-value-u-s-minimum-wage/)
 
 ![My Visualization](/viz_dump_1.png)
