@@ -34,7 +34,6 @@ The results of the heatmap confirmed what was previously seen, in which the raci
 
 
 ## Visualization 3:
-![](/blog1_age.png)
 
 Continuing on, I thought it would be interesting to see if this observed higher mean hospital charge for racial minorities is present in all or in specific age groups. With this, I wanted to study the distribution of costs across these age groups among the different races using a violin plot. Since this is quite a bit of data, utilizing color in addition to the y-axis helps differentiate between the age groups.
 
