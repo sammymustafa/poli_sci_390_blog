@@ -2,9 +2,13 @@
 
 Trips to the hospital are inevitable parts of most people's lives, whether it be for themselves or friends or family. However, the care that is received is not always the same. There are implicit biases and disparities present within the medical field that make treatment harder for certain groups. Particularly, it has been shown that a patient's race plays a big role in how they are treated in the hospital which subsequently affects their long-term outcomes. 
 
+This is a topic that has been studied and addressed a countless number of times within the medical field to no avail. Racial disparities are present in who receives a mechanical heart pump or heart transplant, where white women are twice as likely as black women to receive these treatments ([NIH, 2022](https://www.nih.gov/news-events/news-releases/nih-supported-study-finds-racial-disparities-advanced-heart-failure-treatment)). This is as much of a problem during COVID such as how Black veterans were less likely to receive advanced COVID-19 therapies ([Kime, 2022](https://www.military.com/daily-news/2022/10/25/fewer-black-vets-got-advanced-covid-treatments-va-hospitals-during-pandemic-study-finds.html)). Overall, the effect of race in the healthcare industry is not because these populations "lack access to health care" but because of the "uncomfortable reality" in which these populations are not treated in the hospital as well as other populations ([Bridges](https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/the-state-of-healthcare-in-the-united-states/racial-disparities-in-health-care/#:~:text=NAM%20found%20that%20%E2%80%9Cracial%20and,physicians%20give%20their%20black%20patients)). 
 
 
 
-([NIH, 2022](https://www.nih.gov/news-events/news-releases/nih-supported-study-finds-racial-disparities-advanced-heart-failure-treatment))
 
-[Visualization Blog 1](/viz_blog_1.md)
+
+
+
+
+
