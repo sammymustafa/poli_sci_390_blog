@@ -23,7 +23,7 @@ It is evident to see that the hospital costs are much less than the hospital cha
 
 
 ## Visualization 2:
-[](/blog1_severity2.png) 
+![](/blog1_severity2.png) 
 
 Next, I wanted to look at whether or not this observed difference in treatment cost was because of the severity of the illnesses these patients had. From this, I wanted to see the effect of both the severity of illness and race on the mean hospital charge for the patient.
 
