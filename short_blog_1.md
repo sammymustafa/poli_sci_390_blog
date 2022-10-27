@@ -43,7 +43,7 @@ It seems like younger patients have greater hospital charges for racial minoriti
 
 
 ## Visualization 4:
-![](/blog1_county2.png)
+![](/blog1_county.png)
 
 Lastly, I wanted to expand this discussion of racial inequalities in the hospital to those enforced due to location. New York City is one of the most diverse but also racially segregated cities, even just by borough ([Baruch, 2017](https://www.baruch.cuny.edu/nycdata/income-taxes/med_hhold_income.htm)); this ties into funding and resource availability which can bring about negative effects in healthcare. By studying the differences in the mean hospital charge for each race by NYC borough, we can understand if location contributes to these racial inequities in the medical field. In addition, differentiating by medical and surgical-related treatments can help us determine if these disparities are due to a certain type of treatment.
 
