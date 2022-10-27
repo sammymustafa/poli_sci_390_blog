@@ -32,7 +32,26 @@ In order to study this, I used a heatmap which ranged from blue representing the
 The results of the heatmap confirmed what was previously seen, in which the racial minorities pay more for these treatments than the racial majority. This is most evident in the multi-racial column where each square is a bit darker than the rest in its corresponding row. Interestingly, this data shows that Black/African American patients have greater mean hospital charges than white individuals in more major and extreme illnesses. This may have not been observed in the first visualization due to the lack of this filter from outliers, but these further confirms the thesis that despite these racial inequalities in the healthcare industry, minorities have to face a greater financial burden.
 
 
+
 ## Visualization 3:
 ![](/blog1_age.png)
+
+Continuing on, I thought it would be interesting to see if this observed higher mean hospital charge for racial minorities is present in all or in specific age groups. With this, I wanted to study the distribution of costs across these age groups among the different races using a violin plot. Since this is quite a bit of data, utilizing color in addition to the y-axis helps differentiate between the age groups.
+
+It seems like younger patients have greater hospital charges for racial minorities compared to the racial majority. By contrast, the distribution of the eldest white age group is the largest and seems to be the source of a great amount of these reported hospital charges. With older populations, you would assume they experience more major and extreme illnesses which subsequently cause greater hospital charges, but from the heatmap from before we can still see that Black populations pay more than white populations for these types of treatments. This further suggests the inequality in hospital charges for racial minorities.
+
+
+
+## Visualization 4:
+![](/blog1_county.png)
+
+Lastly, I wanted to expand this discussion of racial inequalities in the hospital to those enforced due to location. New York City is one of the most diverse but also racially segregated cities, even just by borough ([Baruch, 2017](https://www.baruch.cuny.edu/nycdata/income-taxes/med_hhold_income.htm)); this ties into funding and resource availability which can bring about negative effects in healthcare. By studying the differences in the mean hospital charge for each race by NYC borough, we can understand if location contributes to these racial inequities in the medical field. In addition, differentiating by medical and surgical-related treatments can help us determine if these disparities are due to a certain type of treatment.
+
+Richmond (Staten Island) and Kings County (Brooklyn) seem to have the lowest mean hospital charge for medical related hospital visits for all races. Moreover, Manhattan and the Bronx have the highest mean hospital charge for medical related hospital visits for all races. For 
+
+
+
+
+
 
 
