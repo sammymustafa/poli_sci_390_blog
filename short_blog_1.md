@@ -10,5 +10,19 @@ This is a great and official database detailing various details of over two mill
 been nice to have a database encompassing this data among other years to see if there has been any change in discharge costs by race every year; previous years' data is also available but also contains over two million patient discharges so this may be a little to much data. 
 
 
+
 ## Visualization 1:
-![Visualization Blog 1](/blog1_cost.png)
+![](/blog1_cost.png)
+
+The first visualization depicts the difference between the mean treatment cost for the hospital vs. the mean discharge charge for the patient by race for various lengths of stay. First, I aimed to see by how much hospital upcharge patients for their services, especially minorities. Next, I aimed to see by how much does this upcharge change with more days in the hospital. Lastly, I hoped to study differences between these two points among the different races detailed by the database.
+
+Thus, I graphed the hospital charge as a solid line and the hospital costs as a dashed line to differentiate between these two values. In order to plot both sets of data on the same graph, I had to pivot the data longer and use linetype to differentiate between each value. Then I used different colors for these lines to differentiate the data by each racial group. 
+
+It is evident to see that the hospital costs are much less than the hospital charges. Moreover, this upcharge seems to grow exponentially as the patient spends more and more days in the hopsital. More importantly, the colors indiicate how Multi-racial and patients described as Other Race had notably higher mean hospital charges. This shows that despite being in the hospital for the same amount of time, certain racial minorities have to pay more for their treatment than the racial majority. It was also interesting that they had higher mean hospital costs; while this may be because physicians are taught based off of information produced by mainly white individuals and may utilize more resources to approach minorities because there is more unknown, this should not be the case and should push for further representation in medical education.
+
+
+
+## Visualization 2:
+![](/blog1_severity.png)
+
+
