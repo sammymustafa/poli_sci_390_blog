@@ -45,13 +45,11 @@ It seems like younger patients have greater hospital charges for racial minoriti
 ## Visualization 4:
 ![](/blog1_county.png)
 
-Lastly, I wanted to expand this discussion of racial inequalities in the hospital to those enforced due to location. New York City is one of the most diverse but also racially segregated cities, even just by borough ([Baruch, 2017](https://www.baruch.cuny.edu/nycdata/income-taxes/med_hhold_income.htm)); this ties into funding and resource availability which can bring about negative effects in healthcare. By studying the differences in the mean hospital charge for each race by NYC borough, we can understand if location contributes to these racial inequities in the medical field. In addition, differentiating by medical and surgical-related treatments can help us determine if these disparities are due to a certain type of treatment.
+Lastly, I wanted to expand this discussion of racial inequalities in the hospital to those enforced due to location. New York City is one of the most diverse but also racially segregated cities, even just by borough ([Baruch, 2017](https://www.baruch.cuny.edu/nycdata/income-taxes/med_hhold_income.htm)); this ties into funding and resource availability which can bring about negative effects in healthcare. By studying the differences in the mean hospital charge for each race by NYC borough, we can understand if location contributes to these racial inequities in the medical field. In addition, differentiating by medical and surgical-related treatments can help us determine if these disparities are due to a certain type of treatment. The way in which these boroughs are leveled in increasing income order makes it easier to see if there are any disparities in these treatment charges.
 
-Richmond (Staten Island) and Kings County (Brooklyn) seem to have the lowest mean hospital charge for medical related hospital visits for all races. Moreover, Manhattan and the Bronx have the highest mean hospital charge for medical related hospital visits for all races. For 
-
-
+The way that the boroughs with the highest (Manhattan) and lowest (Bronx) mean income have the greatest mean medical and surgery charges for mostly every race shows how areas with people from lower financial backgrounds have to pay as much as areas with people from higher financial backgrounds. While most every racial minority seems to have a high mean hospital charge in the Bronx, it is interesting to see that white patients face greater hospital charges in the Bronx compared to Manhattan. While this goes against the thesis, minorities are paying a greater hospital charge in the borough with the greatest income, which also that with a majority of white individuals, suggesting that racial disparities are causing them to be further charged for these services. 
 
 
+## Conclusion
 
-
-
+To conclude, the data presented suggest that racial minorities seem to face racial inequalities in not only their hospital treatment but as well as their financial obligation to these treatments. Minorities are paying more to be treated with bias and racial disparities that hurt them even more. While certain parts of these data and visualizations could have been enhanced, such as studying these realtions with insurance types, incorporating the ethnic make-up of these counties, etc., the data seem to be enough to highlight the financial burden that racial minorities have to carry from the medical field.
