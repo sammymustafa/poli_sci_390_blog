@@ -9,3 +9,6 @@ While the effect of race on treatment is known, I thought it would be interestin
 This is a great and official database detailing various details of over two million hospital discharges from 2019; in addition to hospital treatment charge, the database reveals factors like the hospital cost, illness severity, length of stay, gender, and insurance utilized for treatment. With this, it is possible to study any associations and additional inequities present within the medical field's treatment of racial minorities. While the database could have included more detailed descriptions of race and ethnicity, it is still useful in differentiating between the majority white population of New York State. In addition, it would have
 been nice to have a database encompassing this data among other years to see if there has been any change in discharge costs by race every year; previous years' data is also available but also contains over two million patient discharges so this may be a little to much data. 
 
+
+## Visualization 1:
+![Visualization Blog 1](/blog1_cost.png)
