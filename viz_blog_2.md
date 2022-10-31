@@ -1,6 +1,6 @@
 # Visualization Blog 2
 
 
-![Hour Traffic Data](hour.png)
+![Hour Traffic](/hour_traffic.png)
 
-![Year Traffic Data](year.png)
+![Year Traffic](/year_traffic.png)
