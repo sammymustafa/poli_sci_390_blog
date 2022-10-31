@@ -6,7 +6,7 @@ Here, I utilized data from the New York State Database that details the hourly t
 # Traffic by Hour
 Initially, I knew that the traffic would vary heavily by hour, in which rush/commutting hours would represent the peaks in movement across New York. However, I hoped to consider the 95% confidence interval and show this from the lower and upper bound error bars to see if these differences in the mean traffic observed per hour was insignificant considering the precision of the value. Thus, I created a function to calculate the upper and lower bounds; however, I needed to calculate the mean and standard error (from the count of values and standard deviation) to input into this function to input into the `geom_errorbar` aesthetic.  
 
-With these bars present, one can see that these differences are still significant because when even considering for their measure of preicision, the values and the error bars do not overlap, especially during the early and mid-day. In addition, this effect is not as present in the toll data, most likely because the amount of people using tolls is much less than that with E-ZPass. 
+With these bars present, one can see that these differences are still significant because when even considering for their measure of preicision, the values and the error bars do not overlap, especially during the early and mid-day. In addition, this effect is not as present in the toll data, most likely because the amount of people using tolls is much less than that with E-ZPass so there could be very little differences in the total traffic per hour.
 
 ![Hour Traffic](/hour_traffic.png)
 
