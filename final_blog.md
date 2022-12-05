@@ -1,5 +1,7 @@
 # Final Blog Compliation
 
+Interactive Data Dashboard: https://sammymustafa.shinyapps.io/final/
+
 Climate change is becoming a bigger issue each day. With this, it is up government officials to take both preventative and responsive measures to protect and preserve our environment. However, not all countries are active in establishing policies and laws that benefit the current and future status of our ecosystems. In fact, this is what the Environmental Performance Index (EPI) studies: it quantifies the environmental performance of a state's policies. From a wide range of indicators weighted accordingly, it highlights sustainability leaders and calls out laggards with the potential of identifying policy weaknesses that need to be addressed.
 
 However, what benefits does considering the environment in policy making offer to governments? Why are some countries so involved in preserving the environment? With these ideas in mind, the main question I strived to answer was "What are the wide-scope effects of devotion to environmental and sustainability policy?" Any observed improvements in certain variables, whether it be economic-related or citizen-related, can shed to light the potential of taking more action in environemntal preservation.
