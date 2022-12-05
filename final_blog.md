@@ -1,6 +1,10 @@
 # Final Blog Compliation
 
 
-https://databank.worldbank.org/source/world-development-indicators#
+([EPI Yale University, 2022](https://epi.yale.edu/downloads))
 
-https://epi.yale.edu/downloads
+([World Bank, 2022](https://databank.worldbank.org/source/world-development-indicators#))
+
+
+
+
